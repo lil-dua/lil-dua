@@ -10,11 +10,11 @@ I'm a android developer from Vietnam.
 
 - 🔭 I’m currently studying at [Vietnam Academy of Cryptography Techniques](https://actvn.edu.vn/)
 
-- 🌱 I’m currently learning **Android(Java)**
+- 🌱 I’m currently learning Android(Java)
 
-- 💬 Ask me about **android, mobile,..**
+- 💬 Ask me about android, mobile,..
 
-- 📫 How to reach me **huuthom0209@gmail.com**
+- 📫 How to reach me huuthom0209@gmail.com
 
 
 # 🌐Socials
