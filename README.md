@@ -14,7 +14,7 @@ I'm a android developer from Vietnam.
 
 - 💬 Ask me about android, mobile,..
 
-- 📫 How to reach me huuthom0209@gmail.com
+- 📫 How to reach me huuthom0209@gmail.com, [Linkedin - Hoang Huu Thom](https://www.linkedin.com/in/ryanhoang21/)
 
 
 # 🌐Socials
