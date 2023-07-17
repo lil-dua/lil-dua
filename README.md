@@ -57,7 +57,7 @@ I'm a android developer from Vietnam.
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=lil-dua&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lil-dua&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lil-dua&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact.
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lil-dua&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=lil-dua&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
