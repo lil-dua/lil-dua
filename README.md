@@ -10,7 +10,7 @@ I'm a android developer from Vietnam.
 
 - 🔭 I’m currently studying at [Vietnam Academy of Cryptography Techniques](https://actvn.edu.vn/)
 
-- 🌱 I’m currently learning Android(Java)
+- 🌱 I’m currently learning Android(Java/Kotlin)
 
 - 💬 Ask me about android, mobile,..
 
